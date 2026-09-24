@@ -2,7 +2,7 @@ terraform {
   required_version = ">= 1.5.0"
 
   cloud {
-    organization = "sept-2026"
+    organization = "sept2026"
 
     workspaces {
       name = "sept23-2026"
